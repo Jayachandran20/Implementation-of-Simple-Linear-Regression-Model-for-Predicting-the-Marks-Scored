@@ -69,7 +69,7 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://user-images.githubusercontent.com/118447015/230724530-8fbd62bb-f668-48c8-8203-a8658e5cd1d3.png)
 
 
 ## Result:
