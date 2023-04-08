@@ -68,8 +68,42 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+df.haed()
 
 ![image](https://user-images.githubusercontent.com/118447015/230724530-8fbd62bb-f668-48c8-8203-a8658e5cd1d3.png)
+
+df.tail()
+
+![image](https://user-images.githubusercontent.com/118447015/230724622-ed2ab144-1d28-427d-8c5e-7b762a277bbc.png)
+
+Array value of X
+
+![image](https://user-images.githubusercontent.com/118447015/230724647-c5749848-f067-44a8-9cd1-93556087c66b.png)
+
+Array value of Y
+
+![image](https://user-images.githubusercontent.com/118447015/230724666-57cef51d-518a-4170-9968-ac9435a6af50.png)
+
+Values of Y prediction
+
+![image](https://user-images.githubusercontent.com/118447015/230724696-53f60e0d-cbfa-497f-8637-d85372069bcc.png)
+
+Array values of Y test
+
+![image](https://user-images.githubusercontent.com/118447015/230724715-80198178-41f9-461e-95fa-85d2ab3a55ca.png)
+
+Training Set Graph
+
+![image](https://user-images.githubusercontent.com/118447015/230724735-58d79b0e-29e3-4a91-b589-dd3ab0483eb1.png)
+
+Test Set Graph
+
+![image](https://user-images.githubusercontent.com/118447015/230724764-4bd8cb79-4bd9-4fe2-a685-922e7f4cf896.png)
+
+Values of MSE, MAE and RMSE
+
+![image](https://user-images.githubusercontent.com/118447015/230724788-7ab640c1-538d-40a6-9cfe-0d1010f34182.png)
+
 
 
 ## Result:
